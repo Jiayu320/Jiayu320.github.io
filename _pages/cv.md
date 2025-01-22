@@ -32,10 +32,7 @@ Skills
 
 Invention Patent
 ======
-Yan Xing, <u>**Jiayu Li**<\u>, Peilin Hong, Shuangguan Liu, Min Hu, Daolun Li, Li Zhang, 
-Jieqing Tan.2024. A command-controlled 3D facial animation generation method 
-based on a single face image.CN. Patent Application 202410912502.5 filed July 
-2024. Patent Pending.
+Yan Xing, **Jiayu Li**, Peilin Hong, Shuangguan Liu, Min Hu, Daolun Li, Li Zhang, Jieqing Tan.2024. A command-controlled 3D facial animation generation method based on a single face image.CN. Patent Application 202410912502.5 filed July 2024. Patent Pending.
 
 Honors and Awards
 ======
