@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Department of Computing, The Hong Kong Polytechnic University, 2026 (expected)
+* B.S. in School of Mathematics, Hefei University of Technology, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2024: Intern of Product Manager
+  * [iFLYTEK CO.LTD.](https://www.iflytek.com/cn/)
+  * Collected and analyzed primary data through a series of experiments, resulting in new insights that informed the development of a new product
+  * Learned about search engine natural language and natural language generation-related algorithms
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Python, SQL (Oracle & SQL Server), Latex, JavaScript, HTML/CSS, C/C++, MATLAB, Java, R
+* Developer Tools
+  * VS Code, PyCharm, Git, Linux, IntelliJ IDEA
+* Libraries/Frameworks
+  * PyTorch, TensorFlow, OpenCV, NumPy, Pandas, Vue.js
 
-Publications
+Invention Patent
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Yan Xing, <u>**Jiayu Li**<\u>, Peilin Hong, Shuangguan Liu, Min Hu, Daolun Li, Li Zhang, 
+Jieqing Tan.2024. A command-controlled 3D facial animation generation method 
+based on a single face image.CN. Patent Application 202410912502.5 filed July 
+2024. Patent Pending.
+
+Honors and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*  Outstanding Undergraduate Thesis Award, Hefei University of Technology, Jun 2024
+*  Outstanding Student Scholarship, Hefei University of Technology, Dec 2023
+*  Outstanding Student Scholarship for Excellence in Scientific & Technological Activities, Hefei University of Technology,  Dec 2023
+*  Outstanding Student Scholarship, Hefei University of Technology, Dec 2021
+*  Merit Student, Hefei University of Technology, Dec 2021
