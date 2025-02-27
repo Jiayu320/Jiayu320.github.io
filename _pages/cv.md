@@ -24,10 +24,10 @@ Mingzhong Wang, Qingshan Wang*, Qi Wang, Zhiwen Zheng, **Jiayu Li**, Yuting Wang
 
 Research Experience
 ======
-* Dec 2023 — Jun 2024  Graduation project and thesis <br>Research on Audio-Driven Head Video Synthesis(Advisor: [Assoc. Prof. Yan Xing](https://maths.hfut.edu.cn/info/1029/4370.htm))
+* Dec 2023 — Jun 2024  Graduation project and thesis <br>Research on Audio-Driven Head Video Synthesis (Advisor: [Assoc. Prof. Yan Xing](https://maths.hfut.edu.cn/info/1029/4370.htm))
   * Spearheaded a groundbreaking project in audio-driven head video generation, with a focus on voice command recognition, monocular 3D facial reconstruction, and notably, the innovative generation of expression. Employed CNNs and GMM-HMM for voice command recognition, advanced 3D facial reconstruction through 2D landmarks, and pioneered GAN-like method to control expression subtleties at the facial action unit level, a first in the field
 
-* Dec 2021 — Apr 2023  College Students Innovation and Entrepreneurship Training Program<br>A Facial Key Point Offset Based Framework for Micro-Expression Recognition (provincial level) Group Project-Team Member (Advisor: [Prof. Wang Qingshan](https://maths.hfut.edu.cn/info/1082/4819.htm))
+* Dec 2021 — Apr 2023  College Students Innovation and Entrepreneurship Training Program<br>A Facial Key Point Offset Based Framework for Micro-Expression Recognition (provincial level) Project Leader (Advisor: [Prof. Wang Qingshan](https://maths.hfut.edu.cn/info/1082/4819.htm))
   * Preprocessed the micro-expression dataset, including the division of fixed points on human faces; amplified micro-expression by means of the Euler subtle motion amplification algorithm; completed application by using the latest Dataset CAS(ME)3 released by the Institute of Psychology, Chinese Academy of Sciences; Constructed long-term sparse deep flow algorithm by using depth information, which could be applied to identify micro-expression
 
 Work Experience
