@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Jiayu Li** a first year master student from [Department of Computing](https://www.polyu.edu.hk/comp/) of The Hong Kong Polytechnic University, advised by [Asst.Prof. Wanyu Lin](https://wanyu-lin.github.io/). Before that, I graduated from the [School of Mathematics](https://maths.hfut.edu.cn/) at Hefei University of Technology in 2024 with a Bachelor's degree in Mathematics and Applied Mathematics, advised by [Assoc.Prof. Xing Yan](https://maths.hfut.edu.cn/info/1029/4370.htm).
+I'm **Jiayu Li** a first year master student from [Department of Computing](https://www.polyu.edu.hk/comp/) of The Hong Kong Polytechnic University, advised by [Prof. Wanyu Lin](https://wanyu-lin.github.io/). Before that, I graduated from the [School of Mathematics](https://maths.hfut.edu.cn/) at Hefei University of Technology in 2024 with a Bachelor's degree in Mathematics and Applied Mathematics, advised by [Prof. Xing Yan](https://maths.hfut.edu.cn/info/1029/4370.htm).
 
 You can find my CV here: [Jiayu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
