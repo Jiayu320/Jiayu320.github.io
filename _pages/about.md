@@ -17,13 +17,9 @@ My research interests lie in **AI agents** and **multi-agent systems**. Currentl
 
 # Favorite works
 * [LIMA: less is more for alignment.](https://arxiv.org/abs/2305.11206)
-
 * [Improving factuality and reasoning in language models through multiagent debate.](https://arxiv.org/abs/2305.14325)
-
 * [GPTSwarm: language agents as optimizable graphs. ](https://arxiv.org/abs/2402.16823)
-
 * [Scaling Large Language Model-based Multi-Agent Collaboration.](https://arxiv.org/abs/2406.07155)
-
 * [Learning to Keep a Promise: Scaling Language Model Decoding Parallelism with Learned Asynchronous Decoding.](https://arxiv.org/abs/2502.11517)
 
 # Hobbies
