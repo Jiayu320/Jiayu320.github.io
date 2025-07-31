@@ -32,10 +32,7 @@ Research Experience
 
 Work Experience
 ======
-* Winter 2024: Intern of Product Manager
-  * [iFLYTEK CO.LTD.](https://www.iflytek.com/cn/)
-  * Collected and analyzed primary data through a series of experiments, resulting in new insights that informed the development of a new product
-  * Learned about search engine natural language and natural language generation-related algorithms
+* Winter 2024: @[iFLYTEK CO.LTD.](https://www.iflytek.com/cn/)
   
 Skills
 ======
